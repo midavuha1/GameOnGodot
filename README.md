@@ -1,5 +1,5 @@
 # GameOnGodot
-This is my second game and first game in godot, here a one-level platformer.
+This is my second game and first game in godot, here is a one-level platformer.
 
 I hope that is not so bad for the first experience in godot.
 
